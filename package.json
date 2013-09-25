@@ -1,0 +1,14 @@
+{
+  "name": "uuid",
+  "version": "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/lge88/uuid.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "expect.js": "*"
+  },
+  "main": "lib/index.js"
+}
